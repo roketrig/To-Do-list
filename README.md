@@ -1,0 +1,1 @@
+# paritka-proje-2
