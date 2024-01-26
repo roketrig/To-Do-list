@@ -1,1 +1,2 @@
-# paritka-proje-2
+To-do list projesi rar şeklinde.
+Yapılması istenilen görevler girilebilir güncellenebilir ve silinebilir.
