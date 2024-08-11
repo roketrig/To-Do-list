@@ -1,2 +1,1 @@
-To-do list projesi rar şeklinde.
-Yapılması istenilen görevler girilebilir güncellenebilir ve silinebilir.
+Classic to-do list you can add remove and switch topics.
